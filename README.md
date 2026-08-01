@@ -1,2 +1,4 @@
-# cpp-sorting-50
+# Cpp Sorting 50
+
 Sorting lists via comparative elements in C++.
+
